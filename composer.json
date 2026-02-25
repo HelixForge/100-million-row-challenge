@@ -1,5 +1,7 @@
 {
     "require": {
+        "ext-pcntl": "*",
+        "ext-igbinary": "*",
         "php": "^8.5",
         "tempest/framework": "^3.2"
     },
